@@ -13,8 +13,8 @@ plt.rcParams['axes.unicode_minus'] = False
 drinks = ['콜라', '오렌지', '핫식스']
 
 #유무
-ph_just = [3.52, 3.3, 3.15]
-ph_bacteria = [3.32, 3.18, 2.6]
+ph_just = [3.15, 3.3, 3.52]
+ph_bacteria = [2.6, 3.18, 3.32]
 ph_bacteria_saliva100 = [6.088, 4.755, 4.801]
 
 #농도별
